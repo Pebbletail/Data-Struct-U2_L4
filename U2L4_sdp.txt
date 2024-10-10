@@ -1,0 +1,5 @@
+1. They need to be equal in size
+2. Maxtrix B's column number must equal matrix A's row number
+3. A's row number x B's column number
+4. The outer loop needs to go through all rows in A, and the inner loop to go through all columns in B for every row in A.
+5. len()
